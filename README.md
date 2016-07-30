@@ -1,6 +1,6 @@
 # heroku websockets in rails 5 with action cable
 
-This repo has been creted by following Heroku[tutorial](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable)
+This repo has been creted by following Heroku [tutorial](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable)
 
 ### Ruby version
 ```
